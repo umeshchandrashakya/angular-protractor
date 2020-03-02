@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "angualr-protractor": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angualr-protractor"
+    }
+  },
+  "defaultProject": "angualr-protractor",
+  "cli": {
+    "analytics": "ca968fc9-2f3c-4fc3-861f-4ec57d041d7d"
+  }
 }
